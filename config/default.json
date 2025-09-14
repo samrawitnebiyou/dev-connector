@@ -1,4 +1,7 @@
 {
     "mongoURI":"mongodb+srv://samrawitmerhatsidk_db_user:8WKS63fpAUq13pMI@devconnector.dru9hxn.mongodb.net/?retryWrites=true&w=majority&appName=DevConnector",
-    "jwtSecret":"mysecrettoken"
+    "jwtSecret":"mysecrettoken",
+    "githubClientId":"Ov23liFBOahbXbovQz31",
+    "githubSecret":"bfb9273f7793660c3d06bc20e788a398b4a75692"
+
 }
